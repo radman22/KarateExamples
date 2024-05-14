@@ -1,0 +1,38 @@
+{
+    "live": "false",
+    "notificationItems": [
+        {
+        "NotificationRequestItem": {
+            "additionalData": {
+            "expiryDate": "12/2012",
+            "authCode": "1234",
+            "cardSummary": "7777",
+            "threeDOffered": "false",
+            "threeDAuthenticated": "false",
+            "totalFraudScore": "10",
+            "hmacSignature": "i8aXq1m7B08SFPQitTREVbqBqD3FKj5uTuqONIEJBSk=",
+            "NAME2": "VALUE2",
+            "NAME1": "VALUE1",
+            "fraudCheck-6-ShopperIpUsage": "10"
+            },
+            "amount": {
+            "currency": "EUR",
+            "value": 10100
+            },
+            "eventCode": "AUTHORISATION",
+            "eventDate": "2023-07-11T13:51:15+02:00",
+            "merchantAccountCode": "WhiteWall-DE",
+            "merchantReference": "8313842560770001",
+            "operations": [
+            "CANCEL",
+            "CAPTURE",
+            "REFUND"
+            ],
+            "paymentMethod": "visa",
+            "pspReference": "TWQBPCHZT379R782",
+            "reason": "1234:7777:12/2012",
+            "success": "true"
+        }
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "item": "item-acrylglasversieglung",
+    "options": [
+        66,
+        163,
+        13,
+        162,
+        661
+    ],
+    "sizeStep": "STEP_4",
+    "formatType": "FORMAT_DIN",
+    "orientation": "LANDSCAPE",
+    "width": 420000,
+    "height": 297000,
+    "artworkId": 8,
+    "quantity": 1,
+    "cropping": {
+        "width": 100,
+        "height": 99.3643,
+        "left": 0,
+        "top": 0.3178
+    }
+}

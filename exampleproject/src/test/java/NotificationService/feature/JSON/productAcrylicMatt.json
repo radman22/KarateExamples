@@ -1,0 +1,23 @@
+{
+    "item": "item-acrylglasversieglungMatt",
+    "options": [
+        66,
+        163,
+        13,
+        162,
+        661
+    ],
+    "sizeStep": "STEP_4",
+    "formatType": "FORMAT_3_TO_2",
+    "orientation": "LANDSCAPE",
+    "width": 600000,
+    "height": 400000,
+    "artworkId": 8,
+    "quantity": 1,
+    "cropping": {
+        "width": 50.133333333333,
+        "height": 59.399684044234,
+        "left": 45.333333333333,
+        "top": 28.909952606635
+    }
+}
